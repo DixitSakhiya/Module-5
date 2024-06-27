@@ -1,0 +1,52 @@
+{
+  "addcategory": [
+    {
+      "catagoryname": "red-chair",
+      "added_date": "0004-02-22",
+      "id": "f31d"
+    },
+    {
+      "catagoryname": "black-sofa",
+      "added_date": "2024-06-24",
+      "id": "aa04"
+    }
+  ],
+  "addproducts": [
+    {
+      "id": "1aa3"
+    },
+    {
+      "id": "a198",
+      "productname": "kuch bhi ",
+      "productprice": "500"
+    },
+    {
+      "id": "4f07",
+      "productname": "kuch bhi ",
+      "productprice": "500"
+    },
+    {
+      "id": "9660",
+      "productname": "Pouf Chair",
+      "productimg": "src/assets/images/products/img67.jpg",
+      "productprice": "399.00"
+    },
+    {
+      "id": "19ad",
+      "productname": "Pouf Chair",
+      "productimg": "C:\\fakepath\\img67.jpg",
+      "productprice": "350.00"
+    },
+    {
+      "id": "9142",
+      "productname": "kuch bhi",
+      "productprice": "599"
+    },
+    {
+      "id": "6926",
+      "productname": "kuch bhi",
+      "productimg": "C:\\fakepath\\img15.jpg",
+      "productprice": "599"
+    }
+  ]
+}
